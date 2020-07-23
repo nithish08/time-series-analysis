@@ -1,11 +1,12 @@
 # Time Series Analysis
 
-1 - Random Walk, Auto Correlation Factor, Time Series Decomposition
-2 - Stationarity, AR, MA processes.
-3 - PACF and indentifying AR, MA processes.
-4 - AR MA processes deep dive
-5 - Non Stationary models like ARIMA, SARIMA
-6 - Multivariate Time Series models SARIMAX, VAR
+
+1. Random Walk, Auto Correlation Factor, Time Series Decomposition
+2. Stationarity, AR, MA processes.
+3. PACF and indentifying AR, MA processes.
+4. AR MA processes deep dive
+5. Non Stationary models like ARIMA, SARIMA
+6. Multivariate Time Series models SARIMAX, VAR
 
 
 code -
